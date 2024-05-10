@@ -1,4 +1,4 @@
-![MasterHead](https://art.pixilart.com/sr229e0f5c2225d.gif)
+![MasterHead]([https://art.pixilart.com/sr229e0f5c2225d.gif](https://i.redd.it/10tyt6w2mumb1.gif))
 <h1 align="center">Hi 👋, I'm Melisa Yüksek</h1>
 <h3 align="center">A freshman computer engineering student at Sakarya University </h3>
 
