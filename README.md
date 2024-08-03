@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Melisa Yüksek</h1>
 <h3 align="center">A computer engineering student</h3>
 
-- 🌱 I’m currently learning SQL and improving C++**
+- 🌱 **I’m currently learning SQL and improving C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
