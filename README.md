@@ -17,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melisayuksek&show_icons=true&locale=en&layout=compact" alt="melisayuksek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melisayuksek&show_icons=true&locale=en" alt="melisayuksek" /></p>
+
+
+![snake gif](https://github.com/MelisaYuksek/MelisaYuksek/blob/output/github-contribution-grid-snake.gif)
