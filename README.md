@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melisayuksek&show_icons=true&theme=dark&title_color=ededed&text_color=f5f5f5&locale=en&layout=compact" alt="melisayuksek" /></p>
 
-
+![snake gif](https://github.com/MelisaYuksek/MelisaYuksek/blob/output/github-snake-dark.svg)
 
