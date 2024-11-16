@@ -21,6 +21,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![snake gif](https://github.com/MelisaYuksek/MelisaYuksek/blob/output/github-snake-dark.svg)
 
 
 
