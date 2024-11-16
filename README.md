@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melisayuksek&show_icons=true&theme=dark&text_color=e0e0e0&locale=en" alt="melisayuksek" /></p>
 
 
-![snake gif](https://github.com/MelisaYuksek/MelisaYuksek/blob/output/github-contribution-grid-snake.gif)
