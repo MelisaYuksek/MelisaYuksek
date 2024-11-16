@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🚀 I'm working on improving myself in C++<br>🌱 I’m currently learning SQL
+🚀 I'm working on improving myself in C++<br>🌱 I’m currently learning SQL <br> 📫 How to reach me melisayksek@gmail.com
 
 
 ## 🌐 Social:
