@@ -23,5 +23,5 @@
 
 
 
-![snake gif](https://github.com/MelisaYuksek/MelisaYuksek/blob/output/github-snake-dark.svg)
+
 
