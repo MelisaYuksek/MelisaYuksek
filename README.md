@@ -3,17 +3,17 @@
 <h3 align="center">A computer engineering student from Türkiye</h3>
 
 
-<h2> # 💫 About Me: </h2>
+ # 💫 About Me: 
 🚀 I'm working on improving myself in C++<br>🌱 I’m currently learning PL/pgSQL <br> 📫 How to reach me melisayksek@gmail.com
 
 
-<h2> ## 🌐 Social: </h2>
+ ## 🌐 Social: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melisa-yuksek) 
 
-<h2> # 💻 Tech Stack: </h2>
+ # 💻 Tech Stack: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-<h2># 📊 GitHub Stats: </h2>
+# 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=melisayuksek&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MelisaYuksek&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
