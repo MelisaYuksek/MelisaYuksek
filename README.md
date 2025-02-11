@@ -10,7 +10,7 @@
 
 
  ## 🌸 About Me: 
-🪻 I'm a computer engineering student at Sakarya University <br>🚀 working on improving myself in C++<br>🌱 currently learning PL/pgSQL <br> <br> 📫 How to reach me: melisayksek@gmail.com
+🪻 I'm a computer engineering student at Sakarya University <br>🚀 working on improving myself in C++<br>🌱 currently learning Java <br> <br> 📫 How to reach me: melisayksek@gmail.com
 
 
  ## 🌐 Social: 
