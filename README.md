@@ -10,7 +10,7 @@
 
 
  ## 🌸 About Me: 
-🪻 I'm a computer engineering student at Sakarya University <br>🚀 working on improving myself in C++<br>🌱 currently learning Java and C. <br> <br> 📫 How to reach me: melisayksek@gmail.com
+🪻 I'm a computer engineering student at Sakarya University <br>🌱 currently learning **Java** and **C**.<br> 🚀 exploring different fields of my major to discover what I enjoy the most <br> <br> 📫 How to reach me: melisayksek@gmail.com
 
 
  ## 🌐 Social: 
@@ -19,7 +19,7 @@
 ***
 
  ## 🛠️ Languages and Tools: 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 <br>
 
