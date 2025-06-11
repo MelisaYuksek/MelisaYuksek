@@ -10,7 +10,7 @@
 
 
  ## 🌸 About Me: 
-🪻 I'm a computer engineering student at Sakarya University <br>🌱 currently learning **Java** and **C**.<br> 🚀 exploring different fields of my major to discover what I enjoy the most <br> <br> 📫 How to reach me: melisayksek@gmail.com
+🪻 I'm a computer engineering student at Sakarya University <br>🌱 currently learning **Java** and **C** <br> 🤖 exploring ML and improving my skills in it <br>  🚀 exploring different fields of my major to discover what I enjoy the most <br> <br> 📫 How to reach me: melisayksek@gmail.com
 
 
  ## 🌐 Social: 
@@ -18,8 +18,10 @@
 
 ***
 
- ## 🛠️ Languages and Tools: 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+ ## 🛠️ Languages, Tools, ML/DL: 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+
 
 <br>
 
