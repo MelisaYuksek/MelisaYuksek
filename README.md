@@ -10,7 +10,7 @@
 
 
  ## 🌸 About Me: 
-🪻 I'm a computer engineering student at Sakarya University <br>🌱 currently learning **Java** and **C** <br> 🤖 exploring ML and improving my skills in it <br>  🚀 exploring different fields of my major to discover what I enjoy the most <br> <br> 📫 How to reach me: melisayksek@gmail.com
+🪻 I'm a computer engineering student at Sakarya University <br>🌱 currently learning **Unity** <br> 🤖 exploring ML and improving my skills in it <br>  🚀 exploring different fields of my major to discover what I enjoy the most <br> <br> 📫 How to reach me: melisayksek@gmail.com
 
 
  ## 🌐 Social: 
