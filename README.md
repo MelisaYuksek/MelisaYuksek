@@ -13,7 +13,7 @@
 
 
  ## 🌸 About Me: 
-🪻 I'm a computer engineering student at Sakarya University <br>🌱  currently trying my best to make a game in **Godot** (GDScript is my partner-in-crime… _unless C# steals me away_) <br> 🤖 improving my skills in **C++** <br>  🚀 wandering through different fields of my major to see which one adopts me <br> <br> 📫 How to reach me: melisayksek@gmail.com
+🪻 I'm a computer engineering student at Sakarya University <br>🌱 I’m learning how **ASP.NET** works <br> 🤖 improving my skills in **C and Java** <br>  🚀 wandering through different fields of my major to see which one adopts me <br> <br> 📫 How to reach me: melisayksek@gmail.com
 
 
  ## 🌐 Social: 
@@ -22,8 +22,7 @@
 ***
 
  ## 🛠️ Languages, Tools, ML/DL: 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Godot](https://img.shields.io/badge/godot-%23FFFFFF.svg?style=flat&logo=godot-engine)
- 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 <br>
 
