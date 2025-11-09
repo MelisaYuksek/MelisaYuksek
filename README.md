@@ -1,7 +1,5 @@
-![heyo](https://github.com/user-attachments/assets/378287e0-1da1-4f03-a153-3226f4ef0ab2)
+![こんにちは](https://github.com/user-attachments/assets/d3d941e8-f0c3-4bf6-9f6f-c3f0c429a56d)
 
-
-<p align="right"><small><i>Painted by Me</i></small></p>
 
 
  [![](https://visitcount.itsvg.in/api?id=MelisaYuksek&icon=0&color=5)](https://visitcount.itsvg.in) <!-- broken :< -->
